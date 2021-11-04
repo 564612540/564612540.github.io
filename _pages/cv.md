@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, University of Science and Technology of China, 2018.
+* M.S. in Electrical Engineering, University of Minnesota, Exp. 2022.
+* Ph.D in Electrical Engineering, University of Minnesota, Exp. 2023.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2018 - Fall 2021: Graduate Research Assistant
+  * Department of Electrical and Computer Engineering, University of Minnesota
+  * Duties included: 
+    - Research on distributed algorithms including federated learning and decentralized optimization. 
+    - Develop distributed machine learning system for training neural networks using Python with TensorFlow/Pytorch and MPI.
+    - Parallel programming using CUDA to solve large scale distributed sparse precision estimation problem.
+    - Research on distributed inverter and power grid control, implemented gradient descent type algorithm on embedded micro-controllers.
+  * Supervisor: Professor Mingyi Hong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020 - Sept. 2020: Research Intern
+  * Alibaba Group (U.S.) Inc.
+  * Duties included: 
+    - Research on large scale federated learning systems.
+    - Develop federated learning system for training large scale neural networks using Python with Pytorch.
+    - Parallel programming using multi-process multi-thread method to solve large scale distributed communication problem.
+  * Supervisor: Professor Wotao Yin
+  
+* Spring 2017- Summer 2018: Undergraduate Research Assistant
+  * Department of Automation, University of Science and Technology of China
+  * Duties included: 
+    - Research in embedded machine learning and visual tracking algorithms for multi-UAV system.
+    - Develop embedded controllers for UAV with real-time visual feedback.
+  * Supervisor: Professor Qing Ling
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, MATLAB, JAVA, Oracle
+* Experienced Packages: OpenCV, CUDA, TensorFlow, Pytorch, MPI
+* Language: Chinese, English, Japanese
 
-Publications
+Research Topics
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Federated Learning, Decentralized Optimization, Differential Privacy
+* Photovoltaic Power Generation, Inverter Modeling, Smart Power Grid Control
