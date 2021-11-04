@@ -24,4 +24,4 @@ author_profile: true
   * **Zhang, X.**, Du, Y., Chen, F., Qin, L., & Ling, Q. (2018, July). *Indoor Position Control of a Quadrotor UAV with Monocular Vision Feedback.* In 2018 37th Chinese Control Conference (CCC) (pp. 9760-9765). IEEE.
   * Du, Y., **Zhang, X.**, Qin, L., Wu, G., & Ling, Q. (2018, June). *State estimation of autonomous rotorcraft MAVs under indoor environments.* In 2018 Chinese Control And Decision Conference (CCDC) (pp. 4420-4424). IEEE.
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=uq46meMAAAAJ)
