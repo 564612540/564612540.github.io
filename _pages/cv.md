@@ -11,13 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Automation, University of Science and Technology of China, 2018.
-* M.S. in Electrical Engineering, University of Minnesota, Exp. 2022.
-* Ph.D in Electrical Engineering, University of Minnesota, Exp. 2023.
+* B.S. in Automation, University of Science and Technology of China, July, 2018.
+* M.S. in Electrical Engineering, University of Minnesota, May 2022.
+* Ph.D in Electrical Engineering, University of Minnesota, Exp. May 2023.
 
 Work experience
 ======
-* Fall 2018 - Fall 2021: Graduate Research Assistant
+* May 2022 - Sept. 2022: Research Intern
+  * IBM-MIT Watson AI Lab.
+  * Duties included: 
+    - Research on federated learning on graph data.
+    - Develop federated learning algorithm for feature distributed graph data.
+    - Research on Bayesian Optimization with unknown constraints.
+  * Supervisor: Dr. Jie Chen
+
+
+* Fall 2018 - Fall 2022: Graduate Research Assistant
   * Department of Electrical and Computer Engineering, University of Minnesota
   * Duties included: 
     - Research on distributed algorithms including federated learning and decentralized optimization. 
