@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinwei Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Student as University of Minnesota"
+  bio              : "Ph.D. Student at University of Minnesota"
   location         : "Minneapolis, MN, U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uq46meMAAAAJ"
-  email            : zhan6234@umn.edu"zhan6234@umn.edu"
+  email            : [zhan6234@umn.edu]"zhan6234@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
