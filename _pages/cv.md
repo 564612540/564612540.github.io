@@ -20,7 +20,7 @@ Work experience
 * May 2022 - Sept. 2022: Research Intern
   * IBM-MIT Watson AI Lab.
   * Duties included: 
-    - Research on federated learning on graph data.
+    - Research on federated learning on graph data and graph neural network.
     - Develop federated learning algorithm for feature distributed graph data.
     - Research on Bayesian Optimization with unknown constraints.
   * Supervisor: Dr. Jie Chen
@@ -53,7 +53,7 @@ Work experience
 Skills
 ======
 * Programming: C/C++, Python, MATLAB, JAVA, Oracle
-* Experienced Packages: OpenCV, CUDA, TensorFlow, Pytorch, MPI
+* Experienced Packages: OpenCV, CUDA, TensorFlow, PyTorch, MPI
 * Language: Chinese, English, Japanese
 
 Research Topics
