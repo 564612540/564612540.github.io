@@ -15,20 +15,26 @@ Education
 * M.S. in Electrical Engineering, University of Minnesota, May 2022.
 * B.S. in Automation, University of Science and Technology of China, July 2018.
 
+Research Topics
+======
+* Theoretical understanding and practical implementation of differential privacy for large-scale optimization.
+* Theoretical aspects of distributed optimization, algorithm design in decentralized optimization and federated learning.
+* Photovoltaic power generation, Inverter modeling, Smart power grid control
+
 Work experience
 ======
 * Dec. 2023 - Present: Postdoc in ISE
-  * University of Southern California, Viterbi School of Engineering
+  * Viterbi School of Engineering, **University of Southern California**
   * Advisor: Prof. Meisam Razaviyayn
 * May 2023 - Nov. 2023: Applied Scientist Intern
-  * Amazon Web Services, Inc.
+  * **Amazon Web Services, Inc.**
   * Duties included:
     - Research on differentially private training LLMs.
     - Develop differentially private large-scale training algorithms for foundation models.
   * Mentor: Dr. Woody Bu, Prof. Mingyi Hong; Manager: Dr. Kaixiang Lin
 
 * May 2022 - Sept. 2022: Research Intern
-  * IBM-MIT Watson AI Lab.
+  * **IBM-MIT Watson AI Lab.**
   * Duties included: 
     - Research on federated learning on graph data and graph neural networks.
     - Develop federated learning algorithm for feature distributed graph data.
@@ -36,7 +42,7 @@ Work experience
   * Supervisor: Dr. Jie Chen
 
 * Fall 2018 - Fall 2023: Graduate Research Assistant
-  * Department of Electrical and Computer Engineering, University of Minnesota
+  * Department of Electrical and Computer Engineering, **University of Minnesota**
   * Duties included: 
     - Research on distributed algorithms, including federated learning and decentralized optimization. 
     - Develop distributed machine learning systems for training neural networks using Python with TensorFlow/Pytorch and MPI.
@@ -45,7 +51,7 @@ Work experience
   * Supervisor: Prof. Mingyi Hong, Prof. Sairaj Dhople
 
 * May 2020 - Sept. 2020: Research Intern
-  * Alibaba Group (U.S.) Inc.
+  * **Alibaba Group (U.S.) Inc.**
   * Duties included: 
     - Research on large-scale federated learning systems.
     - Develop a federated learning system for training large-scale neural networks using Python with Pytorch.
@@ -65,8 +71,3 @@ Skills
 * Experienced Packages: OpenCV, CUDA, TensorFlow, PyTorch, MPI
 * Language: Chinese, English, Japanese
 
-Research Topics
-======
-* Differential Privacy, large-scale differentially private training
-* Theoretical aspects of distributed optimization, algorithm design in decentralized optimization and federated learning.
-* Photovoltaic power generation, Inverter modeling, Smart power grid control
