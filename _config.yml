@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinwei Zhang "
 title_separator          : "-"
 name                     : &name "Xinwei Zhang"
-description              : &description "PhD Student at UMN"
+description              : &description "Postdoc at USC"
 url                      : https://564612540.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "564612540/564612540.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinwei Zhang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at University of Minnesota"
-  location         : "Minneapolis, MN, U.S."
+  bio              : "Postdoc at University of Southern California"
+  location         : "Los Angeles, CA, U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uq46meMAAAAJ"
