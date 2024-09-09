@@ -4,10 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Under Review
-  * **Zhang, X.**, Hong. M, & Chen, J. *GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data*, Submitted to International Conference on Machine Learning, 2023.
+* Under review
+  * Bu, Z., **Zhang, X.**, Hong, M., Zha, S. and Karypis, G., 2024. *Pre-training Differentially Private Models with Limited Public Data.* arXiv preprint arXiv:2402.18752. Submitted to NeurIPS 2024.
+  * **Zhang, X.**, Bu, Z., Hong, M. and Razaviyayn, M., 2024. *DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction.* arXiv preprint arXiv:2408.13460. Submitted to NeurIPS 2024.
+* 2024
+  * **Zhang, X.**, Hong. M, & Chen, J. *GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data*, Transactions on Machine Learning Research, 2024.
+  * Tian, Y., Zuniga, A., **Zhang, X.**, Dürholt, J.P., Das, P., Chen, J., Matusik, W. and Lukovic, M.K., *Boundary Exploration for Bayesian Optimization With Unknown Physical Constraints.* In Forty-first International Conference on Machine Learning.
+  * **Zhang, X.**, Bu, Z., Wu, S. and Hong, M., *Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach.* In The Twelfth International Conference on Learning Representations.
+  * **Zhang, X.**, Song, B., Honarkhah, M., Dingl, J. and Hong, M., 2024, July. *Building Large Models from Small Distributed Models: A Layer Matching Approach.* In 2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop (SAM) (pp. 1-5). IEEE.
 * 2023
+  * **Zhang, X.**, Hong, M. and Elia, N., 2023. *Understanding a class of decentralized and federated optimization algorithms: A multirate feedback control perspective.* SIAM Journal on Optimization, 33(2), pp.652-683.
   * **Zhang, X.**, Hong, M., & Elia, N. *A Unified Framework to Understand Decentralized and Federated Optimization Algorithms: A Multi-Rate Feedback Control Perspective*, SIAM Journal on Optimization, (NeurIPS-2021 Workshop on New Frontiers in Federated Learning. (**Accepted as Contributed Talk**))
+  * Song, B., Khanduri, P., **Zhang, X.**, Yi, J. and Hong, M., 2023, July. *Fedavg converges to zero training loss linearly for overparameterized multi-layer neural networks.* In International Conference on Machine Learning (pp. 32304-32330). PMLR.
 
 * 2022
   * **Zhang, X.**, Hong, M., Dhople S., & Elia, N. *A Stochastic Multi-Rate Control Framework For Modeling Distributed Optimization Algorithms*, International Conference on Machine Learning, 2022. (Accept for Spotlight Presentation) https://proceedings.mlr.press/v162/zhang22j.html
@@ -30,4 +38,4 @@ author_profile: true
   * **Zhang, X.**, Du, Y., Chen, F., Qin, L., & Ling, Q. *Indoor Position Control of a Quadrotor UAV with Monocular Vision Feedback.* In 2018 37th Chinese Control Conference (CCC) (pp. 9760-9765). IEEE.
   * Du, Y., **Zhang, X.**, Qin, L., Wu, G., & Ling, Q. *State estimation of autonomous rotorcraft MAVs under indoor environments.* In 2018 Chinese Control And Decision Conference (CCDC) (pp. 4420-4424). IEEE.
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=uq46meMAAAAJ)
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=uq46meMAAAAJ&hl=en)
