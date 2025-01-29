@@ -4,11 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Under review
-  * Bu, Z., **Zhang, X.**, Hong, M., Zha, S. and Karypis, G., 2024. *Pre-training Differentially Private Models with Limited Public Data.* arXiv preprint arXiv:2402.18752. Submitted to NeurIPS 2024.
-  * **Zhang, X.**, Bu, Z., Hong, M. and Razaviyayn, M., 2024. *DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction.* arXiv preprint arXiv:2408.13460. Submitted to NeurIPS 2024.
-  * Li, Z., **Zhang, X.** and Razaviyayn, M., *Addax: Memory-Efficient Fine-Tuning of Language Models with a Combination of Forward-Backward and Forward-Only Passes.* In 5th Workshop on practical ML for limited/low resource settings. Submitted to NeurIPS 2024.
+* Accepted
+  * **Zhang, X.**, Bu, Z., Balle, B., Hong, M., Razaviyayn, M., Mirrokni, V. *Disk: Differentially private optimizer with simplified Kalman filter for noise reduction.* In International Conference on Learning Representations, 2025.
+  * Li, Z., **Zhang, X.**, Zheng, P., Deng, Y., Razaviyayn, M., and Mirrokni, V. *Addax: Memory-Efficient Fine-Tuning of Language Models with a Combination of Forward-Backward and Forward-Only Passes.* In International Conference on Learning Representations, 2025.
 * 2024
+  * Bu, Z., **Zhang, X.**, Hong, M., Zha, S. and Karypis, G., 2024. *Pre-training Differentially Private Models with Limited Public Data.* In Annual Conference on Neural Information Processing Systems, 2024.
+  * **Zhang, X.**, Bu, Z., Hong, M. and Razaviyayn, M., 2024. *DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction.* In Annual Conference on Neural Information Processing Systems, 2024.
   * **Zhang, X.**, Hong. M, & Chen, J. *GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically Distributed Graph Data*, Transactions on Machine Learning Research, 2024.
   * Tian, Y., Zuniga, A., **Zhang, X.**, Dürholt, J.P., Das, P., Chen, J., Matusik, W. and Lukovic, M.K., *Boundary Exploration for Bayesian Optimization With Unknown Physical Constraints.* In Forty-first International Conference on Machine Learning.
   * **Zhang, X.**, Bu, Z., Wu, S. and Hong, M., *Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach.* In The Twelfth International Conference on Learning Representations.
