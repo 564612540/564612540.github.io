@@ -19,6 +19,9 @@ My research interest is in the theoretical aspect of distributed optimization an
 For more details, please see my [publications](https://564612540.github.io/publications).
 
 ### News
+* **January 2025**, two papers accepted by **ICLR 2025**:
+  * *DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction*, with Zhiqi Bu, Borja Balle, Mingyi Hong, Meisam Razaviyayn, and Vahab Mirrokni, see [here](https://openreview.net/forum?id=Lfy9q7Icp9)
+  *  *Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models*, with Zeman Li, Peilin Zhong, Yuan Deng, Meisam Razaviyayn, and Vahab Mirrokni, see [here](https://openreview.net/forum?id=QhxjQOMdDF)
 * **September 2024**, two papers accepted by **NeurIPS 2024**:
   * *Pre-training Differentially Private Models with Limited Public Data*, with Zhiqi Bu, Sheng Zha, Mingyi Hong, and George Karypis, see [here](https://openreview.net/forum?id=GQrk0WGNiC).
   * *DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction*, with Zhiqi Bu, Mingyi Hong, and Meisam Razaviyayn, see [here](https://openreview.net/forum?id=r8YntmAd0g).
