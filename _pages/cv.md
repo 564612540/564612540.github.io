@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Electrical Engineering, University of Minnesota, Nov. 2023.
@@ -18,7 +16,7 @@ Education
 Research Topics
 ======
 * Theoretical understanding and practical implementation of differential privacy for large-scale optimization.
-* Theoretical aspects of distributed optimization, algorithm design in decentralized optimization and federated learning.
+* Theoretical aspects of distributed optimization, algorithm design in decentralized optimization, and federated learning.
 * Photovoltaic power generation, Inverter modeling, Smart power grid control
 
 Work experience
@@ -64,6 +62,30 @@ Work experience
     - Research in embedded machine learning and visual tracking algorithms for multi-UAV systems.
     - Develop embedded controllers for UAVs with real-time visual feedback.
   * Supervisor: Prof. Qing Ling
+ 
+Service
+=====
+* **Journal Review**
+  * IEEE Transactions on Signal Processing
+  * IEEE Transactions on Communications
+  * IEEE Transactions on Control of Network Systems
+  * IEEE Transactions on Energy Conversion
+  * IEEE Transactions on Intelligent Transportation Systems
+  * IEEE Transactions on Power Systems
+  * IEEE Open Access Journal of Power and Energy
+  * INFORMS Journal on Computing
+  * Journal of Intelligent Manufacturing
+  * Journal of Systems Architecture
+  * Journal of Machine Learning Research
+  * Transactions on Machine Learning Research
+* **Conference Review**
+  * Conference on Neural Information Processing Systems (NeurIPS)
+  * International Conference on Machine Learning (ICML)
+  * International Conference on Machine Learning (ICLR)
+  * AAAI Conference on Artificial Intelligence (AAAI)
+  * International Conference on Artificial Intelligence and Statistics (AISTATS)
+  * Conference on Uncertainty in Artificial Intelligence (UAI)
+  * Annual Conference of the IEEE Industrial Electronics Society (IECON)
   
 Skills
 ======
