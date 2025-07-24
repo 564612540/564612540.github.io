@@ -21,7 +21,9 @@ Research Topics
 
 Work experience
 ======
-* Dec. 2023 - Present: Postdoc in ISE
+* Jul. 2025 - Present: Applied Scientist
+  * **Amazon.com, Inc.**
+* Dec. 2023 - Jun. 2025: Postdoc in ISE
   * Viterbi School of Engineering, **University of Southern California**
   * Advisor: Prof. Meisam Razaviyayn
 * May 2023 - Nov. 2023: Applied Scientist Intern
