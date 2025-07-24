@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc in Industrial and System Engineering at the University of Southern California. I received my Ph.D. in Electrical Engineering in 2023 and my M.Eng. in Electrical Engineering in 2022 at the University of Minnesota. I received my B.E. in Automation from the University of Science and Technology of China in 2018. Please see my [CV](https://564612540.github.io/cv) for more details.
+I am an Applied Scientist at Amazon.com, Inc. I was a Postdoc in Industrial and Systems Engineering at the University of Southern California. I received my Ph.D. in Electrical Engineering in 2023 and my M.Eng. in Electrical Engineering in 2022 at the University of Minnesota. I received my B.E. in Automation from the University of Science and Technology of China in 2018. Please see my [CV](https://564612540.github.io/cv) for more details.
 
 ### Research Interests
-My research interest is in the theoretical aspect of distributed optimization and differential privacy for machine learning. My recent work focuses on:
-1. designing differentially private optimization algorithms with theoretical guarantees.
-2. understanding distributed optimization algorithms, designing system-specific algorithms, and making connections to signal processing and control theory.
-3. understanding federated learning from different perspectives and resolving existing problems in federated learning, including data heterogeneity, communication efficiency, and differential privacy.
+My research interests lie in the theoretical aspects of distributed optimization and differential privacy in machine learning. My recent work focuses on:
+1. Designing differentially private optimization algorithms with theoretical guarantees.
+2. Understanding distributed optimization algorithms, designing system-specific algorithms, and making connections to signal processing and control theory.
+3. Understanding federated learning from different perspectives and resolving existing problems in federated learning, including data heterogeneity, communication efficiency, and differential privacy.
 
 For more details, please see my [publications](https://564612540.github.io/publications).
 
