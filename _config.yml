@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinwei Zhang "
 title_separator          : "-"
 name                     : &name "Xinwei Zhang"
-description              : &description "Postdoc at USC"
+description              : &description "Applied Scientist"
 url                      : https://564612540.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "564612540/564612540.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xinwei Zhang"
   avatar           : "Xinwei_Photo_1.jpg"
-  bio              : "Postdoc at University of Southern California"
-  location         : "Los Angeles, CA, U.S."
+  bio              : "Applied Scientist at Amazon"
+  location         : "San Diego, CA, U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uq46meMAAAAJ&hl=en"
-  email            : "xinweiz@usc.edu"
+  email            : "zhan6234@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
